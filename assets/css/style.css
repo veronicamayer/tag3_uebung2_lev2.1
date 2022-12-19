@@ -1,0 +1,44 @@
+h1 {
+    font-size: 48px;
+    background-color: rgb(88, 87, 87);
+    text-shadow: 5px 5px 5px black;
+    font-family: tahoma;
+    color: white;
+    text-align: center;
+    line-height: 80px;
+}
+
+nav p {
+    text-indent: 30px;
+    word-spacing: 10px;
+    font-family: ‘Lucida Sans Unicode’;
+    margin-left: 20px;
+}
+
+main p {
+    text-indent: 50px;
+    word-spacing: -2px;
+    font-family: ‘Lucida Sans Unicode’;
+    margin-left: 20px;
+}
+
+h2 {
+    text-shadow: 1px 1px 2px black;
+    letter-spacing: 10px;
+    margin-left: 20px;
+}
+
+section p {
+    word-spacing: 5px;
+    text-indent: 20px;
+    line-height: 25px;
+    background-color: rgb(149, 147, 147);
+}
+
+aside p {
+    word-spacing: 5px;
+    text-indent: 20px;
+    color: white;
+    line-height: 40px;
+    background-color: rgb(67, 66, 66);
+}
